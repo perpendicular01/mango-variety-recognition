@@ -1,0 +1,7 @@
+Exp,Model,Aug,ClassW,Acc,MacroP,MacroR,MacroF1
+E1,cnn/scratch,False,False,0.7898,0.8077,0.7808,0.7707
+E2,mobilenet/frozen,False,False,0.8757,0.8783,0.8241,0.8377
+E3,mobilenet/finetune,False,False,0.9702,0.9722,0.9521,0.9607
+E4,mobilenet/finetune,True,False,0.9457,0.9664,0.904,0.9201
+E5,mobilenet/finetune,False,True,0.9632,0.95,0.9485,0.9462
+E6,mobilenet/finetune,True,True,0.9545,0.9722,0.917,0.93

@@ -1,0 +1,4 @@
+Exp,Model,Loss,ClassW,Acc,MacroF1
+E7_efficientnet,efficientnet,ce,True,0.9632,0.9523
+E7_resnet18,resnet18,ce,True,0.9212,0.9032
+E8_focal,mobilenet,focal,False,0.9422,0.9121

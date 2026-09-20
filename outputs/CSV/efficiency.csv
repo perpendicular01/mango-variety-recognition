@@ -1,0 +1,3 @@
+Model,Params (M),Size (MB),"ms/image (batch 1, cuda)"
+cnn,0.39,1.6,1.13
+mobilenet,2.24,9.2,5.01
